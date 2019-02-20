@@ -1,0 +1,32 @@
+---
+title: "MEF432"
+author: "Cemal"
+date: "20 Subat 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# RMarkdown Homework
+
+## Who am I?
+Hi, I am Cemal, a 3rd year Business Administration student from MEF University, Istanbul. Currently I am interested in Project Management and Data Analysis so I want to improve myself at these topics. My interest in Data Analysis first started when I started taking statistics courses and started to work with data. Eventough they were very simple works it was very funny and I decided to work and learn more on this area. Thats why I took Business Analytics course this semester. 
+
+### A Usefull Video
+https://resources.rstudio.com/webinars/reproducible-finance-with-r-jonathan-regenstein
+This video shows some R applications which we can use in the finance sector. 
+
+### A Complete Tutorial to learn Data Science in R from Scratch
+This blog explains how and why R is important for Data Analysis and how it can make it easier with R.
+https://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/
+
+### Exploratory Data Analysis in R (introduction)
+This writing explains about how to use exploratory data analysis.
+https://www.r-bloggers.com/exploratory-data-analysis-in-r-introduction/
+
+### Data Analysis with R - Course
+This is a free course you can attend and complete online on Udacity.
+https://www.udacity.com/course/data-analysis-with-r--ud651
+
