@@ -1,4 +1,4 @@
-# Progress Journal Example Title
+# Progress Journal 
 
 ## Week 3 (Feb 20)
 
