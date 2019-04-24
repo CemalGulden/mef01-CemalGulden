@@ -13,4 +13,4 @@
 + [This](Final_Project_Proposal_-_CB.html) is our final project proposal. It includes what our project will be on in detail. We decided on some possbile analysis that we can do. It also shows a sample of the data for you to get an idea what the data is.
 
 ## Apr 24
-+ This week we will have our 2nd Project Presentation and prepared [This](FianlReportv2.html) project report about what we have done so far. 
++ This week we will have our 2nd Project Presentation and prepared [this](FianlReportv2.html) project report about what we have done so far. 
