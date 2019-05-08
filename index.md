@@ -14,3 +14,7 @@
 
 ## Apr 24
 + This week we will have our 2nd Project Presentation and prepared [this](FinalReportv2.html) project report about what we have done so far. 
+
+## May 08
++ This week, we learned how to collect data from twitter and make analyzes on them. 
++ [This](rtweet.html) is an example what we have done. 
